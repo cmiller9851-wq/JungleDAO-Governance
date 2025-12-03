@@ -1,0 +1,14 @@
+{
+  "name": "jungle-dao",
+  "version": "0.1.0",
+  "description": "Lightweight DAO framework for on‑chain governance",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js",
+    "test": "echo \"No tests yet\""
+  },
+  "keywords": ["dao", "governance", "blockchain"],
+  "author": "Cory Miller <cory.miller@example.com>",
+  "license": "Apache-2.0",
+  "dependencies": {}
+}
